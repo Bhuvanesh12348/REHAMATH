@@ -1,0 +1,39 @@
+Personal Information:
+
+Full name(s) of the passengers
+Contact details (phone number, email address)
+Address 
+
+Travel Details:
+
+Date and time of departure
+Departure and arrival locations (departure point, destination)
+Preferred route or stops 
+
+Seat Preferences:
+
+Specific seat selection (aisle, window, front, or rear)
+Number of seats 
+
+Payment Information:
+
+Payment method (credit/debit card, bank transfer, etc.)
+Payment for the reservation, either in full or partial deposit
+Proof of payment
+
+Identification:
+
+Passport or national ID for international trips or in case of verification
+Student, senior, or other discount cards 
+
+Additional Requirements:
+
+Special requests (e.g., wheelchair access, extra luggage)
+Meal preferences or dietary restrictions 
+Pet policy or arrangements 
+Group booking discounts or corporate reservations
+
+Confirmation:
+
+Booking reference number or confirmation code
+E-ticket or physical ticket 
